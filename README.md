@@ -1,6 +1,6 @@
 # flutter_application_josetarouca
 
-A new Flutter project.
+Post de um projeto realizado no âmbito da disciplina de Desenvolvimento para Dispositivos Móveis III do Curso Programação para Dispositivos Móveis. Trabalho Final.
 
 ## Getting Started
 
